@@ -1,4 +1,4 @@
-def Fibonnacci(n):
+def Fibonacci(n):
     """
     Return the n-th value of the Fibonacci sequence
     [0, 1, 1, 2, 3, 5, 8, 13, ...]
